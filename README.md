@@ -1,1 +1,2 @@
-main account -> [github.com/hazmr](github.com/hazmr)
+## Main account 👇:
+[https//:github.com/hazmr](https://github.com/hazmr)
